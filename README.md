@@ -7,6 +7,12 @@ Two folders side by side, a keyboard shortcut for everything, and files that ope
 > [!WARNING]
 > **Portal is in active development and has not reached its first 1.0.0 release yet.** Almost all features already work well and are used daily, but you may still run into rough edges. If something goes wrong, please [open an issue on GitHub](https://github.com/Tertiumnon/portal-file-manager-community/issues/new) — every report helps make 1.0.0 better.
 
+<!-- screenshots -->
+![Portal File Manager: two folders side by side with disks, favorites and shortcuts](screenshots/v0.2.0/main.png)
+
+![A Markdown file with highlighted code open in the panel, Tokyo Night theme](screenshots/v0.2.0/editor.png)
+<!-- /screenshots -->
+
 ## Really free
 
 Portal is free for personal use — not a trial, not "freemium":
@@ -17,6 +23,8 @@ Portal is free for personal use — not a trial, not "freemium":
 - **No account or sign-in.**
 - **No subscriptions, paid tiers or locked features.** Everything described below is included.
 - **No admin rights needed** to install it.
+
+If Portal saves you time and you'd like to support its development, you can [buy me a coffee on Ko-fi](https://ko-fi.com/tertiumnon). It's entirely optional, and everything stays free either way.
 
 ## Why Portal
 
@@ -113,6 +121,13 @@ Prefer Total Commander, Far Manager, Windows Explorer or macOS keys? Switch the 
 Download the latest installer from [Releases](https://github.com/Tertiumnon/portal-file-manager-community/releases) and run it. It installs for your user account only, so no administrator rights are needed. Settings are saved automatically.
 
 Requires Windows 10 or 11.
+
+<!-- release-notes -->
+## What's new
+
+- [Portal 0.2.0](release-notes/0.2.0.md) · October 2026
+- [Portal 0.1.0](release-notes/0.1.0.md) · October 2026 · First preview
+<!-- /release-notes -->
 
 ## Feedback
 
