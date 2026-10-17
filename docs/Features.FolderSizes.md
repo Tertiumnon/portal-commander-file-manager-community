@@ -27,7 +27,7 @@ The toolbar's excluded-folder list affects visibility only. It is not a recursiv
 
 ## Cache
 
-Completed totals and timestamps are saved on disk and restored after restart. Saved totals do not disappear merely because they are old; totals for folders that no longer exist are removed when the cache file is compacted. Partial or skipped results are not stored as complete totals. There is no cache-duration option in Settings.
+Completed totals and timestamps are saved on disk and restored after restart. Saved totals do not disappear merely because they are old; totals for folders that no longer exist are removed when the cache file is compacted. Partial totals are saved too and shown with `≥` until they are recalculated, so a folder keeps its size after you navigate away. Skipped results are not stored. There is no cache-duration option in Settings.
 
 Each time a folder is opened with automatic sizes on, its total is rebuilt from its direct files and its children's saved totals, so navigating back to a folder whose children were already measured does not rescan them. A child without a saved total is scanned in full. Saved totals are shown until the rebuild finishes, and the result then replaces them.
 
