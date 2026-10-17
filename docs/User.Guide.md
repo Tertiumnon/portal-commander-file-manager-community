@@ -1,12 +1,13 @@
 # Portal Commander user guide
 
-> **0.3.0 — unreleased development documentation.** These pages describe the upcoming 0.3.0 release, not the published 0.2.0 installer. Some controls may be missing or different in 0.2.0.
+> **0.3.0 — development documentation.** These pages describe the upcoming 0.3.0 release, not the published 0.2.0 installer. Some controls may be missing or different in 0.2.0.
 
 ## Version scope
 
 | Item | Reviewed baseline |
 | --- | --- |
-| App source commit | `5dc125bcd260d9f230dffa4182631d14255c41ae` |
+| App source baseline | `5dc125bcd260d9f230dffa4182631d14255c41ae` |
+| Additional development review | Child-cache reuse, disk-cache retention and removal of the cache-duration setting; in development |
 | Package version at review | `0.2.0` in development source; this does not establish release availability |
 | Documentation reviewed | 2026-10-17 |
 | Intended release | `0.3.0` — in development, not yet published |

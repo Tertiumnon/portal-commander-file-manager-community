@@ -1,6 +1,6 @@
 # Settings and persistence
 
-> [Unreleased documentation and version scope](User.Guide.md#version-scope).
+> [Development documentation and version scope](User.Guide.md#version-scope).
 
 Open the settings-icon menu and choose Settings. Changes save automatically. About is in the same menu and contains application information and links.
 
@@ -12,7 +12,7 @@ Open the settings-icon menu and choose Settings. Changes save automatically. Abo
 | Interface | Window-control style, shortcut layout/panel, scale and favorite labels |
 | File operations | Panel refresh, multiple-opening delay, in-panel extensions, delete confirmation and word wrap |
 | File visibility | Editable excluded-folder rules only |
-| Storage | Custom cloud roots, hidden disks, disk/trash display and refresh, folder-size cache duration |
+| Storage | Custom cloud roots, hidden disks, disk/trash display and refresh |
 | User settings | Export, import and restoring popup defaults |
 
 Acrylic and opacity are independent. Background opacity applies across the app while text/icons remain opaque. Native acrylic availability depends on the OS; Linux transparency depends on the desktop compositor.

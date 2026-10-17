@@ -1,6 +1,6 @@
 # Panels and navigation
 
-> [Unreleased documentation and version scope](User.Guide.md#version-scope).
+> [Development documentation and version scope](User.Guide.md#version-scope).
 
 ## Navigate
 
