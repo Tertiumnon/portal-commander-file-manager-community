@@ -5,7 +5,7 @@ A fast, two-panel file manager for Windows that stays out of your way. **Really 
 Two folders side by side, a keyboard shortcut for everything, and files that open right inside the panel.
 
 > [!WARNING]
-> **Portal is in active development and has not reached its first 1.0.0 release yet.** Almost all features already work well and are used daily, but you may still run into rough edges. If something goes wrong, please [open an issue on GitHub](https://github.com/Tertiumnon/portal-file-manager-community/issues/new) — every report helps make 1.0.0 better.
+> **Portal is in active development and has not reached its first 1.0.0 release yet.** Almost all features already work well and are used daily, but you may still run into rough edges. If something goes wrong, please [open an issue on GitHub](https://github.com/Tertiumnon/portal-commander-file-manager-community/issues/new) — every report helps make 1.0.0 better.
 
 <!-- screenshots -->
 ![Portal File Manager: two folders side by side with disks, favorites and shortcuts](screenshots/v0.2.0/main.png)
@@ -122,7 +122,7 @@ The [0.3.0 development user guide](docs/User.Guide.md) describes the upcoming, u
 
 ## Install
 
-Download the latest installer from [Releases](https://github.com/Tertiumnon/portal-file-manager-community/releases) and run it. It installs for your user account only, so no administrator rights are needed. Settings are saved automatically.
+Download the latest installer from [Releases](https://github.com/Tertiumnon/portal-commander-file-manager-community/releases) and run it. It installs for your user account only, so no administrator rights are needed. Settings are saved automatically.
 
 Requires Windows 10 or 11.
 
@@ -135,7 +135,7 @@ Requires Windows 10 or 11.
 
 ## Feedback
 
-Portal is still before its 1.0.0 release, so your reports matter. Found a bug or missing a feature? [Open an issue on GitHub](https://github.com/Tertiumnon/portal-file-manager-community/issues/new) and tell us what you were doing, what you expected and what happened. You can also browse [existing issues](https://github.com/Tertiumnon/portal-file-manager-community/issues).
+Portal is still before its 1.0.0 release, so your reports matter. Found a bug or missing a feature? [Open an issue on GitHub](https://github.com/Tertiumnon/portal-commander-file-manager-community/issues/new) and tell us what you were doing, what you expected and what happened. You can also browse [existing issues](https://github.com/Tertiumnon/portal-commander-file-manager-community/issues).
 
 ## License
 
