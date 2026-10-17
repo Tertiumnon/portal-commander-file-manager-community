@@ -27,12 +27,10 @@ The toolbar's excluded-folder list affects visibility only. It is not a recursiv
 
 ## Cache
 
-Completed totals and timestamps are saved on disk and restored after restart. Saved totals do not disappear merely because they are old; they can be displayed while automatic calculation revalidates them in the background. Partial/skipped results are not stored as complete cached totals. There is no cache-duration option in Settings.
+Completed totals and timestamps are saved on disk and restored after restart. Saved totals do not disappear merely because they are old; totals for folders that no longer exist are removed when the cache file is compacted. Partial or skipped results are not stored as complete totals. There is no cache-duration option in Settings.
 
-Parent scans also reuse previously calculated child-folder totals while they are still valid. A reused child's contents are not traversed again; files directly inside the parent and uncached portions are still examined. A child total already includes its descendants, so those totals are not added a second time. Cloud, link and filesystem-boundary safeguards apply before child-cache reuse.
+Each time a folder is opened with automatic sizes on, its total is rebuilt from its direct files and its children's saved totals, so navigating back to a folder whose children were already measured does not rescan them. A child without a saved total is scanned in full. Saved totals are shown until the rebuild finishes, and the result then replaces them.
 
-When a parent combines cached children, its timestamp retains the oldest reused total. This prevents repeated parent scans from delaying revalidation of that child. The displayed timestamp therefore may be older than the parent request itself.
+Cloud folders are never measured: they are not queued, and their contents are never read. The implementation uses normal filesystem reads on Windows, Linux and macOS, without system-journal dependencies.
 
-The backend uses a one-hour reuse window before requesting another scan during automatic calculation. This is an internal revalidation policy, not timed deletion of saved data. Revalidation occurs when automatic sizing requests a folder; disabled automatic sizing does not scan simply because an hour passes. The implementation uses normal filesystem reads on Windows, Linux and macOS, without system-journal dependencies. A folder's unchanged timestamp is not treated as proof that all descendants are unchanged.
-
-External changes may make a cached total inaccurate before revalidation. A result describes a point in time, not a live quota. It is not a measure of physical disk allocation or compression savings.
+External changes can make a total inaccurate between opening the folder and the next scan. A result describes a point in time, not a live quota. It is not a measure of physical disk allocation or compression savings.
