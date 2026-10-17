@@ -1,18 +1,19 @@
 # Portal Commander user guide
 
-> **0.3.0 — development documentation.** These pages describe the upcoming 0.3.0 release, not the published 0.2.0 installer. Some controls may be missing or different in 0.2.0.
+> **0.3.0 documentation.** These pages describe Portal Commander 0.3.0. Earlier versions, such as 0.2.0, may have different or missing controls.
 
 ## Version scope
 
 | Item | Reviewed baseline |
 | --- | --- |
-| App source baseline | `5dc125bcd260d9f230dffa4182631d14255c41ae` |
-| Additional development review | Full recalculation on each folder open, saved totals shown until then, and removal of the cache-duration setting; in development |
-| Package version at review | `0.2.0` in development source; this does not establish release availability |
+| App source baseline | `17ccb87` (tag `v0.3.0`) |
+| Package version | `0.3.0` |
 | Documentation reviewed | 2026-10-17 |
-| Intended release | `0.3.0` — in development, not yet published |
+| Release | `0.3.0`, tagged `v0.3.0` |
 
-Portal Commander is the development name. Earlier releases and notes use Portal File Manager. Version 0.2.0 is published; use its [release notes](../release-notes/0.2.0.md) for released behavior. The [0.1.0 notes](../release-notes/0.1.0.md) cover the first preview. The [0.3.0 notes](../release-notes/0.3.0.md) describe the upcoming release and remain subject to review.
+This pass updated the version labels and scope. The feature pages were not re-checked against the installed 0.3.0 build.
+
+Portal Commander is the name from 0.3.0; earlier releases and notes use Portal File Manager. Version 0.3.0 is the current release: its [release notes](../release-notes/0.3.0.md) list what changed. Earlier versions: [0.2.0](../release-notes/0.2.0.md) and [0.1.0](../release-notes/0.1.0.md).
 
 ## Find a feature
 

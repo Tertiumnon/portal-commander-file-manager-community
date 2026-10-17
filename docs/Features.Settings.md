@@ -1,6 +1,6 @@
 # Settings and persistence
 
-> [Development documentation and version scope](User.Guide.md#version-scope).
+> [Documentation and version scope](User.Guide.md#version-scope).
 
 Open the settings-icon menu and choose Settings. Changes save automatically. About is in the same menu and contains application information and links.
 

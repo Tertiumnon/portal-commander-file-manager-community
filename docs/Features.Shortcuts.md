@@ -1,6 +1,6 @@
 # Keyboard shortcuts
 
-> [Development documentation and version scope](User.Guide.md#version-scope).
+> [Documentation and version scope](User.Guide.md#version-scope).
 
 Choose Portal Default, Windows Explorer, Total Commander, Far Manager or macOS under **Settings → Interface → Shortcuts**. The shortcut panel's help icon opens the full table for that layout. Use that table when a key differs from the default examples below.
 

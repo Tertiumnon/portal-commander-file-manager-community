@@ -1,6 +1,6 @@
 # Viewers and text editing
 
-> [Development documentation and version scope](User.Guide.md#version-scope).
+> [Documentation and version scope](User.Guide.md#version-scope).
 
 The filename, Edit/Save actions and Close button share a header above the tools. The footer shows the opened file's size and mode information. The shortcut panel follows the active file.
 

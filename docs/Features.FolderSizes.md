@@ -1,6 +1,6 @@
 # Folder sizes
 
-> [Development documentation and version scope](User.Guide.md#version-scope).
+> [Documentation and version scope](User.Guide.md#version-scope).
 
 Enable **Automatic folder sizes** in a panel's toolbar. A confirmation appears before enabling it. The app calculates listed folders in the background, prioritizing visible folders. Both panels share a scan queue rather than starting unrestricted parallel recursive scans.
 

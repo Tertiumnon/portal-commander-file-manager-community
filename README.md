@@ -118,7 +118,7 @@ Prefer Total Commander, Far Manager, Windows Explorer or macOS keys? Switch the 
 
 ## User guide
 
-The [0.3.0 development user guide](docs/User.Guide.md) describes the upcoming, in-development Portal Commander version. Version 0.2.0 is published; not every feature in the development guide is available in that installer. For released changes, use the [release notes](#whats-new). See [documentation versioning](docs/Docs.Versioning.md) for the release-snapshot policy.
+The [user guide](docs/User.Guide.md) describes Portal Commander 0.3.0, the current release. Earlier versions may differ, so use their [release notes](#whats-new) for their behavior. See [documentation versioning](docs/Docs.Versioning.md) for the release-snapshot policy.
 
 ## Install
 
@@ -129,6 +129,7 @@ Requires Windows 10 or 11.
 <!-- release-notes -->
 ## What's new
 
+- [Portal 0.3.0](release-notes/0.3.0.md) · October 2026
 - [Portal 0.2.0](release-notes/0.2.0.md) · October 2026
 - [Portal 0.1.0](release-notes/0.1.0.md) · October 2026 · First preview
 <!-- /release-notes -->

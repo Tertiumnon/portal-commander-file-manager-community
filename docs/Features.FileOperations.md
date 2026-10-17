@@ -1,6 +1,6 @@
 # File operations
 
-> [Development documentation and version scope](User.Guide.md#version-scope).
+> [Documentation and version scope](User.Guide.md#version-scope).
 
 Select files in the active panel. Shift extends a range; Ctrl or the applicable platform modifier changes a multiple selection. Panel-to-panel Copy and Move use the other panel's folder as their destination. Files can also be dragged between panels.
 

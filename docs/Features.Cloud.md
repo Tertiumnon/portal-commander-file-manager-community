@@ -1,6 +1,6 @@
 # Cloud folders
 
-> [Development documentation and version scope](User.Guide.md#version-scope).
+> [Documentation and version scope](User.Guide.md#version-scope).
 
 Portal browses cloud content through the local filesystem and installed sync client. It does not connect directly to provider account APIs or provide a universal cloud-account browser.
 

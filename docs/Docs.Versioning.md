@@ -23,9 +23,9 @@ Never move a published documentation tag to correct a mistake. Correct the worki
 
 ## Starting point
 
-Version 0.2.0 is published. Active development and the working guide target **0.3.0 — in development**. The guide was reviewed against app source `5dc125bcd260d9f230dffa4182631d14255c41ae`, whose package version still reads 0.2.0. That source-version value is historical review metadata, not the guide's target release.
+Version 0.3.0 is the current release, tagged `v0.3.0` in the app at `17ccb87`. The working guide targets 0.3.0, and its scope labels were updated for the release. The feature pages were not re-checked against the installed build, so the `docs-v0.3.0` snapshot tag waits for that review.
 
-No historical snapshot is fabricated for 0.2.0; its release notes remain the reference until a matching build is reviewed. Create `docs-v0.3.0` only after the 0.3.0 release review, not during development. This initial setup creates no tags.
+No historical snapshot is fabricated for 0.2.0; its release notes remain the reference until a matching build is reviewed. Create `docs-v0.3.0` only after the 0.3.0 release review.
 
 ## Release checklist
 
