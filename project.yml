@@ -1,1 +1,1 @@
-{type: desktop-app}
+{type: desktop-app, frameworks: [Tauri 2, Angular]}
