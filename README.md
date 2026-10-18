@@ -1,6 +1,6 @@
 # Portal File Manager
 
-A fast, two-panel file manager for Windows that stays out of your way. **Really free for personal use.**
+Portal is a fast, two-panel desktop file manager for Windows that stays out of your way. **Really free for personal use.**
 
 Two folders side by side, a keyboard shortcut for everything, and files that open right inside the panel.
 
