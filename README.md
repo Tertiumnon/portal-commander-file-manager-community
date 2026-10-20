@@ -115,23 +115,11 @@ If Portal saves you time and you'd like to support its development, you can [buy
 
 Prefer Total Commander, Far Manager, Windows Explorer or macOS keys? Switch the layout in **Settings → Interface → Shortcuts**.
 
-## User guide
-
-The [user guide](docs/User.Guide.md) describes Portal Commander 0.3.0, the current release. Earlier versions may differ, so use their [release notes](#whats-new) for their behavior. See [documentation versioning](docs/Docs.Versioning.md) for the release-snapshot policy.
-
 ## Install
 
 Download the latest installer from [Releases](https://github.com/Tertiumnon/portal-commander-file-manager-community/releases) and run it. It installs for your user account only, so no administrator rights are needed. Settings are saved automatically.
 
 Requires Windows 10 or 11.
-
-<!-- release-notes -->
-## What's new
-
-- [Portal 0.3.0](release-notes/0.3.0.md) · October 2026
-- [Portal 0.2.0](release-notes/0.2.0.md) · October 2026
-- [Portal 0.1.0](release-notes/0.1.0.md) · October 2026 · First preview
-<!-- /release-notes -->
 
 ## Feedback
 
