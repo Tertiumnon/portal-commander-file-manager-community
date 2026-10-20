@@ -1,5 +1,7 @@
 # Portal Commander
 
+Fast, free two-panel file manager for Windows with in-panel file preview and editing.
+
 Portal is a fast, two-panel desktop file manager for Windows that stays out of your way. **Really free for personal use.**
 
 Two folders side by side, a keyboard shortcut for everything, and files that open right inside the panel.
