@@ -1,3 +1,6 @@
-{type: desktop-app, frameworks: [Tauri 2, Angular]}
+type: desktop-app
+frameworks:
+  - Tauri 2
+  - Angular
 publish_on:
   - https://tertiumnon.github.io
