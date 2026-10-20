@@ -4,3 +4,4 @@ frameworks:
   - Angular
 publish_on:
   - https://tertiumnon.github.io
+icon: assets/logo/logo.png
