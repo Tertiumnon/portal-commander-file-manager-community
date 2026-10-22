@@ -1,10 +1,26 @@
 type: desktop-app
+slug: portal-commander-file-manager-community
 frameworks:
   - Tauri 2
   - Angular
-publish_on:
+listed_on:
   - https://tertiumnon.github.io
 icon: assets/logo/logo.png
 screenshots:
   - docs/screenshots/01-main.png
   - docs/screenshots/02-editor.png
+display_name:
+  en: "Portal Commander"
+summary:
+  en: "Fast, free two-panel file manager for Windows with in-panel file preview and editing."
+languages:
+  - en
+default_language: en
+platforms:
+  windows:
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - developer
+    github: Tertiumnon
